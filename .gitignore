@@ -1,0 +1,34 @@
+# Local Android SDK, build tools and IDE state
+/.android-sdk/
+/.tools/
+/.idea/
+**/.gradle/
+**/.kotlin/
+**/build/
+local.properties
+*.iml
+
+# Local diagnostics, screenshots and temporary scripts
+/work/
+/D:*/
+*.log
+.DS_Store
+Thumbs.db
+
+# Credentials and signing material
+.env
+.env.*
+!.env.example
+keystore.properties
+key.properties
+*.jks
+*.keystore
+*.p12
+*.pem
+
+# Distribute installers through GitHub Releases
+*.apk
+*.aab
+
+# Local path artifact
+/DSearch
