@@ -1,4 +1,4 @@
-# 拍题助手 · PhotoSolve
+# 题见 · Question Lens
 
 面向 Android 的 AI 搜题应用，支持拍照、相册选图和悬浮窗识屏。无需账号或自建服务器，使用用户自行配置的 OpenAI 兼容视觉模型接口。
 
